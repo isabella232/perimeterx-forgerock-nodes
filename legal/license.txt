@@ -1,0 +1,15 @@
+Subject to the conditions set forth below, permission hereby granted to the entity on the Forgerock platform (“Licensee”) that obtains a copy of the Source Code to deal in the Source Code under the conditions and restrictions set forth in this agreement.
+THE SOURCE CODE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL PERIMETERX'S, INC. BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOURCE CODE OR THE USE OR OTHER DEALINGS IN THE SOURCE CODE.
+
+1. DEFINITIONS.
+"Source Code" means (i) all source code provided or made available to Licensee pursuant to this agreement, and (ii) such source code's structure and organization, and (iii) all related documentation, developer's notes and database schema, if any, provided or made available to Licensee pursuant to this agreement, and (iv) any copies (both electronic and paper) made thereof by or on behalf of Licensee.
+
+"Compiled Application" means the executable program run from unmodified Source Code.
+
+"Derivative Works" shall have the meaning set forth in the United States Copyright Act, 17 U.S.C. Section 101, et seq.
+
+2. LICENSEE RIGHTS AND RESTRICTIONS.
+
+2.1. Grant of License. The license set forth in this agreement is granted to Licensee only if Licensee has previously purchased a valid subscription from PerimeterX's or its authorized resellers to PerimeterX's Bot Defender solution and prior agreement to the PerimeterX's Subscription Agreement found at www.perimterx.com/legal/psa ("PSA") when the order is placed. Subject to Licensee's strict compliance with the terms and conditions of this agreement and the PSA, PerimeterX hereby grants to Licensee a non-exclusive, non-transferable, limited license to the Source Code to internally reproduce the Source Code for the sole purpose of creating a Compiled Application in order for Licensee to use it as part of a subscription that Licensee has purchased to PerimeterX’s Bot Defender Service. 
+
+2.2. Restrictions and Requirements of Use. Except as expressly provided in Section 2.1, no other license or right in the Source Code is granted to Licensee under this agreement directly or by implication or otherwise. Without limiting the generality of the foregoing and notwithstanding anything to the contrary in this agreement, Licensee may not: (a) remove any copyright notice, proprietary information notices, or other notice from the Source Code; (b) assign, sublicense, lease, or in any other way transfer or disclose the Source Code to any third party; (c) utilize the Source Code in a manner to prepare, create, or assist third parties in preparing or creating software that is similar to PerimeterX’s Bot Defender solution; (d) reproduce or use any part of the Source Code or Compiled Application except as provided in this agreement or the PSA; (e) reproduce, modify, or reverse engineer the Software; or (f) create Derivative Works based on the Source Code.
